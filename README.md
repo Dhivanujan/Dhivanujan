@@ -43,20 +43,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dhivanujan&show_icons=true&count_private=true&theme=tokyonight" height="160" />
   </a>
   
-  <!-- Streak Stats -->
-  <a href="https://github.com/dhivanujan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivanujan&theme=tokyonight" height="160" />
-  </a>
-  
   <!-- Top Languages -->
   <a href="https://github.com/dhivanujan?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivanujan&layout=compact&theme=tokyonight&count_private=true" height="160" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Animated Contribution Calendar -->
-  <img src="https://github.com/dhivanujan.png?size=230" alt="Dhivanujan's GitHub" style="border-radius:50%;" />
 </p>
 
 <p align="center">
